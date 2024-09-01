@@ -1,6 +1,6 @@
 # java-Projects
 
-This repository contains two Java projects:
+This repository contains two Java projects: 1) File Packer Unpacker, 2) Customized Database Management System
 
 ## **File Packer Unpacker**
 
